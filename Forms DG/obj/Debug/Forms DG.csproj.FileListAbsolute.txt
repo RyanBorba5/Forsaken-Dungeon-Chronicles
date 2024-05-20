@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\bin\Debug\Forms DG.exe.config
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\bin\Debug\Forms DG.exe
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\bin\Debug\Forms DG.pdb
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms_DG.Form1.resources
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms_DG.Properties.Resources.resources
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.exe
+C:\Users\Admin\source\repos\Dungeon Game\Forms DG\obj\Debug\Forms DG.pdb
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\bin\Debug\Forms DG.exe.config
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\bin\Debug\Forms DG.exe
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\bin\Debug\Forms DG.pdb
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.AssemblyReference.cache
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms_DG.Form1.resources
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms_DG.Properties.Resources.resources
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.GenerateResource.cache
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms DG.csproj.CoreCompileInputs.cache
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms DG.exe
+C:\Users\hungr\OneDrive\Desktop\Dungeon Game\Forms DG\obj\Debug\Forms DG.pdb
