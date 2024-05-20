@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\bin\Debug\Dungeon Game Final.exe.config
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\bin\Debug\Dungeon Game Final.exe
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\bin\Debug\Dungeon Game Final.pdb
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\obj\Debug\Dungeon Game.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\obj\Debug\Dungeon Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\obj\Debug\Dungeon Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\obj\Debug\Dungeon Game Final.exe
+C:\Users\Admin\source\repos\Dungeon Game\Dungeon Game Final\obj\Debug\Dungeon Game Final.pdb
